@@ -31,13 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/SowmyaVisvanathan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475775/b1b1205d-ac4c-4074-b6c4-8eb301ceebba)
+![image](https://github.com/SowmyaVisvanathan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475775/f3965c62-cb7d-445c-a25d-bdbda082324b)
 
 ### Output:
-![image](https://github.com/SowmyaVisvanathan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475775/04ec98ab-f505-457a-b94a-52a8157f6ad5)
+![image](https://github.com/SowmyaVisvanathan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475775/5231e270-0b04-4ec3-bc3a-dd593b5c5380)
 
-
-### Name: Sowmya Visvanathan
+### Name: Sowmya V
 ### Register Number: 212222110045
 
 ## RESULT:
